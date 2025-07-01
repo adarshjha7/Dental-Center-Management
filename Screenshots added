@@ -133,9 +133,15 @@ All patients use password: `patient123`
 - [ ] Data synchronization between roles
 - [ ] Session persistence across page refresh
 
-### Debug Pages
+### App Screenshots
 
-- `/admin/test` - Route protection testing
-- `/patient/test` - Data synchronization verification
-- Login test helper available for credential verification
+ ![Screenshot (103)](https://github.com/user-attachments/assets/0310724f-96c6-4d43-ae9c-02a2be2183c7)
+ ![Screenshot (104)](https://github.com/user-attachments/assets/1152eed8-a833-4a19-8785-4175ff9bd302)
+![Screenshot (105)](https://github.com/user-attachments/assets/6ac901da-0881-432f-97f0-3e1cc922ee62)
+![Screenshot (106)](https://github.com/user-attachments/assets/63025aaf-c372-4059-9a5e-405970897503)
+![Screenshot (107)](https://github.com/user-attachments/assets/fb102d2a-bb42-4419-9284-c6fbadbb83bd)
+![Screenshot (108)](https://github.com/user-attachments/assets/a14912ec-8ffe-4875-bc70-0165c1a44c5d)
+![Screenshot (109)](https://github.com/user-attachments/assets/1b771711-9419-497e-af6f-1e70923633d4)
+![Screenshot (110)](https://github.com/user-attachments/assets/025f5f94-51f1-4bae-9509-aca487ab0ae7)
+![Screenshot (111)](https://github.com/user-attachments/assets/f7f4eac0-83cc-43f5-a592-fb5f284f0c8c)
 
